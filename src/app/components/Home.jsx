@@ -5,7 +5,7 @@ import Head from 'next/head';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import Lenis from 'lenis';
-import { cubesData } from '../utils/cubesData';
+import { cubesData } from '../utils/cubesdata';
 import { addImagesToCubes } from '../utils/addImagesToCubes';
 
 export default function Home() {
