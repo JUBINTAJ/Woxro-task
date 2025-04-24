@@ -1,4 +1,3 @@
-// utils/addImagesToCubes.js
 import { cubeImages } from './cubeImage';
 
 export const addImagesToCubes = () => {
