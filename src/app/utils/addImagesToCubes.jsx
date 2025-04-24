@@ -1,4 +1,4 @@
-import { cubeimage } from '../utils/cubeImage'
+import { cubeimage } from './cubeimage'
 
 export const addImagesToCubes = () => {
   const cubes = document.querySelectorAll('.cube');
