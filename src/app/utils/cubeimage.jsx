@@ -1,4 +1,4 @@
-export const cubeImages = [
+export const cubeimage = [
     '/assets/img1.jpg.png',
     '/assets/img2.jpg.png',
     '/assets/img3.jpg.png',

@@ -1,10 +1,10 @@
-import { cubeImages } from './cubeImage';
+import { cubeimage } from './cubeImage';
 
 export const addImagesToCubes = () => {
   const cubes = document.querySelectorAll('.cube');
 
   cubes.forEach((cube, index) => {
-    const imagePath = cubeImages[index % cubeImages.length];
+    const imagePath = cubeimage[index % cubeimage.length];
     const faces = cube.querySelectorAll('div');
 
     faces.forEach((face) => {
