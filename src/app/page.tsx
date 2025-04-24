@@ -1,10 +1,10 @@
 import React from 'react'
-import Figma from '@/app/components/Figma'
+import Home from '@/app/components/Home'
 
 function page() {
   return (
     <div>
-      <Figma/>
+      <Home/>
       
     </div>
   )
