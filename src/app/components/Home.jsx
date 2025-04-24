@@ -4,7 +4,7 @@ import { useEffect } from 'react';
 import Head from 'next/head';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
-import Lenis from '@studio-freight/lenis';
+import Lenis from 'lenis';
 import { cubesData } from '../utils/cubesData';
 import { addImagesToCubes } from '../utils/addImagesToCubes';
 
